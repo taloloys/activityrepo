@@ -1,0 +1,3 @@
+dead ->  <- alive
+
+death ->  <- birth
